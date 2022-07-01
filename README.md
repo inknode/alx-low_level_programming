@@ -1,1 +1,1 @@
-Low level programming
+Variables, conditionals and loops
