@@ -2,7 +2,8 @@
 
 /**
  * Main - Entry point
- * Description: Prints alphabet in lowerCase
+ * Description: a function that prints the alphabet,
+ * in lowecase followed by a new line
  * Return: void
  */
 
