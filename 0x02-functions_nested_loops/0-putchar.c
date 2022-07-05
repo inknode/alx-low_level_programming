@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <unistd.h>
 
 /*
  * Main: Entry point
@@ -6,8 +6,7 @@
  * Return: 0
  */
 
-int main(void)
+int _putchar(char c)
 {
-printf("%i\n", _putchar);
-return 0;
+	return (write(1, &c, 1));
 }
