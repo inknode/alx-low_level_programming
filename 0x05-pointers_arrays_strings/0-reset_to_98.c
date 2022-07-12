@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * reset_to_98 - passes 98 to the pointer argument 
- * 
+ * reset_to_98 - reset the value of n to 98
+ * @n: pointer for variable to be reset
+ *
  * Return: nothing
  */
 
